@@ -1,0 +1,9 @@
+{
+  "jobs":[
+  {"id":1,"name":"Teacher","description":"Teaching"},
+  {"id":2,"name":"developer","description":"Enjoys coding"},
+  {"id":3,"name":"Doctor","description":"Treats people"}
+]  
+    
+}
+   
